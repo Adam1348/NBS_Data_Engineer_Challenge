@@ -95,3 +95,4 @@ second hour against the first hour.
 
 ## Reference
 [Google BigQuery Documentation](https://cloud.google.com/bigquery/docs/)
+[Page view statistics for Wikimedia projects](https://dumps.wikimedia.org/other/pagecounts-raw/)
